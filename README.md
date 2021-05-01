@@ -17,4 +17,12 @@
 <a href="https://www.linkedin.com/in/mohammed-naim-236160169/" target="_blank"><img src="https://www.freepngimg.com/thumb/linkedin/6-2-linkedin-transparent-thumb.png" alt="instgram" width="30"></a>
 <a href="https://discord.gg/mo7mmed.n3im#7834"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png" alt="discord" width="30"></a>
 
+
+<a href="https://github.com/mohammed-20?tab=followers">
+  <img src="https://img.shields.io/github/followers/mohammed-20">
+</a>
+<a href="https://github.com/mohammed-20">
+   <img src="https://komarev.com/ghpvc/?username=mohammed-20">
+</a>
+
 </div>
