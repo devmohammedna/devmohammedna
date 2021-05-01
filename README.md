@@ -26,3 +26,4 @@
 </a>
 
 </div>
+<a href="#"><img src="https://discord.c99.nl/widget/theme-1/500579653661097985.png"></a>
