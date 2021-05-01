@@ -16,7 +16,7 @@
 <a href="https://www.instagram.com/mo7mmed.n3im" target="_blank"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="instgram" width="30"></a>
 <a href="https://www.linkedin.com/in/mohammed-naim-236160169/" target="_blank"><img src="https://www.freepngimg.com/thumb/linkedin/6-2-linkedin-transparent-thumb.png" alt="instgram" width="30"></a>
 
-### <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png" alt="discord" width="10"> You can add me on Discord
+### <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png" alt="discord" width="20"> You can add me on Discord
 <h3 >
 mo7mmed.n3im#7834
 </h3>
