@@ -18,9 +18,9 @@
 
 ### 👌 You can add me on Discord
 <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png" alt="discord" width="30">
-<h1 >
+<h3 >
 mo7mmed.n3im#7834
-</h1>
+</h3>
 
 
 <a href="https://github.com/mohammed-20?tab=followers">
