@@ -17,9 +17,9 @@
 <a href="https://www.linkedin.com/in/mohammed-naim-236160169/" target="_blank"><img src="https://www.freepngimg.com/thumb/linkedin/6-2-linkedin-transparent-thumb.png" alt="instgram" width="30"></a>
 
 ### <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png" alt="discord" width="20"> You can add me on Discord
-<h4 >
-mo7mmed.n3im#7834
-</h4>
+
+  - mo7mmed.n3im#7834
+
 
 
 <a href="https://github.com/mohammed-20?tab=followers">
