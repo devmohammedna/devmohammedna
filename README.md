@@ -32,5 +32,5 @@
 </div>
 <a href="#"><img src="https://discord.c99.nl/widget/theme-1/500579653661097985.png"></a>
 </a>
-    <img src="https://github-profile-trophy.vercel.app/?username=mohammed-20&theme=darkhub&margin-w=12&margin-h=10&column=7">
+  
 </div>
