@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Naim</h1>
+<h1 align="center">Hi 👋, [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=I'm+Mohammed+Naim)](https://git.io/typing-svg)I'm Mohammed Naim</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
 - 🌱 I’m currently learning **Node.js**
