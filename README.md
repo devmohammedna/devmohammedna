@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Naim</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently working at **Kiitos**
 
 - 👨‍💻 All of my projects are available at [https://mnaim.netlify.app/](https://mnaim.netlify.app/)
 
