@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mohammed Naim</h1>
-<h3 align="center">A passionate frontend developer from Palestine</h3>
+# Welcome to my profile <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25">
 
-- 🌱 I’m currently working at **Kiitos**
+<h3 align="center">I'm a professional Frontend Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://mnaim.netlify.app/](https://mnaim.netlify.app/)
 
-- 💬 Ask me about **React.js, Redux, Next.js, Typescript, Javascript**
+```
+A Frontend developer, I specialize in building intuitive and engaging user interfaces for web applications. 
+With a strong foundation in HTML, CSS, and JavaScript, and proficiency in ReactJS and other modern frontend technologies, I am able to create responsive and performant web applications that deliver a seamless user experience. 
+
+I am a proactive and detail-oriented individual, with a passion for delivering high-quality products on time. I am always looking to expand my skills and expertise, and am excited to work with talented teams to create innovative and impactful solutions.
+```
 
 - 📫 How to reach me **dev.mohammedna@gmail.com**
 
