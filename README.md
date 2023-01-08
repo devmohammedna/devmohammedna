@@ -7,8 +7,6 @@
 I’m working on developing professional web apps with responsive designs, high-performance,
 reusable components, using the newest and most popular frameworks and technologies like React,
 Next, Redux, and more.
-
-
 ```
 
 - 📫 How to reach me **dev.mohammedna@gmail.com**
@@ -18,6 +16,7 @@ Next, Redux, and more.
 - ⚡ Fun fact **sometimes when I have a problem in programming I dream about it and find the solution for the error in my dream**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/devmohammedna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devmohammedna" height="30" width="40" /></a>
 </p>
