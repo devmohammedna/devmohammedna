@@ -9,7 +9,8 @@ With a strong foundation in HTML, CSS, and JavaScript, and proficiency in ReactJ
 I am able to create responsive and performant web applications that deliver a seamless user experience. 
 
 I am a proactive and detail-oriented individual, with a passion for delivering high-quality products on time. 
-I am always looking to expand my skills and expertise, and am excited to work with talented teams to create innovative and impactful solutions.
+I am always looking to expand my skills and expertise, 
+and am excited to work with talented teams to create innovative and impactful solutions.
 
 ```
 
