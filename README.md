@@ -4,13 +4,10 @@
 
 
 ```
-A Frontend developer, I specialize in building intuitive and engaging user interfaces for web applications. 
-With a strong foundation in HTML, CSS, and JavaScript, and proficiency in ReactJS and other modern frontend technologies,
-I am able to create responsive and performant web applications that deliver a seamless user experience. 
+I’m working on developing professional web apps with responsive designs, high-performance,
+reusable components, using the newest and most popular frameworks and technologies like React,
+Next, Redux, and more.
 
-I am a proactive and detail-oriented individual, with a passion for delivering high-quality products on time. 
-I am always looking to expand my skills and expertise, 
-and am excited to work with talented teams to create innovative and impactful solutions.
 
 ```
 
